@@ -1,6 +1,6 @@
 ---
 i18nlanguage: en
-title: Blog post Title 1
+title: Blog post Hello World
 image: /media/uploads/example.jpg
 people:
   - person: Name of the person 1
